@@ -1,3 +1,5 @@
+コメント行
+
 $(window).scroll(function () {
     $('.animation-test').each(function () {
         var imagePos = $(this).offset().top;
