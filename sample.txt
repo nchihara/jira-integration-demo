@@ -1,4 +1,4 @@
-テスト
+
 
 $(window).scroll(function () {
     $('.animation-test').each(function () {
